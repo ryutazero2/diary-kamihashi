@@ -19,5 +19,9 @@
 
 ## S3
 
+### メモ
+- 一度S3に配置したオブジェクトの暗号化の設定を変える場合 AWS CLI の s3 cp コマンドでオブジェクトをコピーする
+
+
 ### 参考
 - 暗号化など https://dev.classmethod.jp/articles/lim-s3-sse-2021/
