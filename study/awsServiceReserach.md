@@ -15,3 +15,4 @@
 
 ### 参考
 - https://classmethod.jp/articles/aws-control-tower/
+- https://qiita.com/miyuki_samitani/items/210a359f44b602aac1ec
