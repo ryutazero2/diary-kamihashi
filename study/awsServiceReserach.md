@@ -16,3 +16,8 @@
 ### 参考
 - https://classmethod.jp/articles/aws-control-tower/
 - https://qiita.com/miyuki_samitani/items/210a359f44b602aac1ec
+
+## S3
+
+### 参考
+- 暗号化など https://dev.classmethod.jp/articles/lim-s3-sse-2021/
